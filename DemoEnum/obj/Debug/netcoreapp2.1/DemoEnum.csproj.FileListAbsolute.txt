@@ -1,0 +1,11 @@
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Enum\DemoEnum\bin\Debug\netcoreapp2.1\DemoEnum.deps.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Enum\DemoEnum\bin\Debug\netcoreapp2.1\DemoEnum.runtimeconfig.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Enum\DemoEnum\bin\Debug\netcoreapp2.1\DemoEnum.runtimeconfig.dev.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Enum\DemoEnum\bin\Debug\netcoreapp2.1\DemoEnum.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Enum\DemoEnum\bin\Debug\netcoreapp2.1\DemoEnum.pdb
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Enum\DemoEnum\obj\Debug\netcoreapp2.1\DemoEnum.csprojAssemblyReference.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Enum\DemoEnum\obj\Debug\netcoreapp2.1\DemoEnum.csproj.CoreCompileInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Enum\DemoEnum\obj\Debug\netcoreapp2.1\DemoEnum.AssemblyInfoInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Enum\DemoEnum\obj\Debug\netcoreapp2.1\DemoEnum.AssemblyInfo.cs
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Enum\DemoEnum\obj\Debug\netcoreapp2.1\DemoEnum.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Enum\DemoEnum\obj\Debug\netcoreapp2.1\DemoEnum.pdb
